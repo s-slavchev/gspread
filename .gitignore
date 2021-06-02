@@ -1,0 +1,7 @@
+.history/
+__pycache__/
+
+active-tome-315415-4618f1423cfb.json
+env
+.flaskenv
+
